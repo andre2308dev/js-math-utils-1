@@ -26,6 +26,12 @@ const perimeter = (a, b) => {
   return 2 * a + 2 * b;
 };
 
+/**
+ *
+ * @param {Number} a
+ * @param {Number} b
+ * @returns
+ */
 const substraction = (a, b) => {
   return a - b;
 };
