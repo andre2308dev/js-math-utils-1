@@ -9,10 +9,14 @@ const sqrt = (a) => {
 
 /**
  * function to calculate perimeter
- * @param {Number} a 
- * @param {Number} b 
- * @returns 
+ * @param {Number} a
+ * @param {Number} b
+ * @returns
  */
-const perimeter =(a,b)=>{
-return 2*a + 2*b;
+const perimeter = (a, b) => {
+  return 2 * a + 2 * b;
+};
+
+const substraction = (a, b) => {
+  return a - b;
 };
