@@ -8,6 +8,15 @@ const sqrt = (a) => {
 };
 
 /**
+ * This function sums twp numbers
+ * @param {Integer} a
+ * @param {Integer} b
+ * @returns
+ */
+function sum(a, b) {
+  return a + b;
+}
+/**
  * function to calculate perimeter
  * @param {Number} a
  * @param {Number} b
